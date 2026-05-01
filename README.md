@@ -15,9 +15,8 @@ To change songs, you first have to press the stop button, then the change song b
 
 Sometimes the buttons are not recognized.
 
-----------------
+
 Connection pins:
-----------------
 
 D2: Stop/Start button
 
