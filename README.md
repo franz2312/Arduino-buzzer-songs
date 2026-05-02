@@ -8,7 +8,7 @@ All the melodies were compiled from https://github.com/hibit-dev/buzzer.
 The code still has a few bugs, some of which are:
 
 --------
-THE BUGS
+DA BUGS
 --------
 
 To change songs, you first have to press the stop button, then the change song button.
@@ -26,4 +26,4 @@ Change music button
 
 D9: Buzzer
 
-And since the explanations in the code are in Turkish, you won't understand it without translation. sry about that
+since the explanations in the code are in Turkish, you won't understand it without translation. sry about that
